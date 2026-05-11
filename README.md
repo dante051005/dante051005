@@ -1,7 +1,7 @@
 # Hi, I'm Dante Flores 👋 
 ### Mechanical Engineering Student @ UNAM | MexCellence Scholar
 
-[span_0](start_span)[span_1](start_span)I am a 6th-semester student with a **9.36/10 GPA**[span_0](end_span)[span_1](end_span)[span_2](start_span), focused on bridging **Mechanical Design** with **Data Analysis**[span_2](end_span). [span_3](start_span)I have experience in structural integrity validation and industrial process optimization[span_3](end_span).
+(start_span)(start_span)I am a 6th-semester student with a **9.36/10 GPA**[span_0](end_span)[span_1](end_span)[span_2](start_span), focused on bridging **Mechanical Design** with **Data Analysis**[span_2](end_span). [span_3](start_span)I have experience in structural integrity validation and industrial process optimization[span_3](end_span).
 
 - [span_4](start_span)[span_5](start_span)🛠️ **FEA Simulation:** Structural validation using Abaqus and Ansys[span_4](end_span)[span_5](end_span).
 - [span_6](start_span)[span_7](start_span)🐍 **Engineering Data Science:** Automating technical data processing with Python[span_6](end_span)[span_7](end_span).

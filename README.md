@@ -4,7 +4,7 @@
 I am a 6th-semester student with a **9.36/10 GPA**, focused on bridging **Mechanical Design** with **Data Analysis**. I have experience in structural integrity validation and industrial process optimization.
 
 - 🛠️ **FEA Simulation:** Structural validation and failure prediction using Abaqus and Ansys.
-- 🐍 **Engineering Data Science:** Automating technical data processing with Python.
+- 🐍 **Engineering Data Science:** Automating technical data processing and visualization with Python.
 - ⚙️ **Manufacturing:** CAD/CAM (Fusion 360) and hands-on industrial processes under ISO standards.
 
 ---

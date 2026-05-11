@@ -10,5 +10,8 @@ I am a 6th-semester student with a **9.36/10 GPA**, focused on bridging **Mechan
 ---
 
 ## 📂 Featured Projects
-- [Fatigue Analysis](https://github.com/dante051005/Fatigue-Analysis-Python): Automated data processing and visualization for additive manufacturing.
-- [Mechanical Design Portfolio](https://github.com/dante051005/Mechanical-Design-Portfolio): My gallery of CAD models, FEA simulations, and manufacturing evidence.
+
+- **[Fatigue Analysis](https://github.com/dante051005/Fatigue-Analysis-Python)**: Automated processing and visualization of experimental fatigue data for additive manufacturing using Python.
+- **[Matrix Calculator](https://github.com/dante051005/Matrix-Calculator-C)**: A linear algebra tool developed in C for matrix operations, vector products, and inverse calculations.
+- **[System Modeling](https://github.com/dante051005/System-Modeling-Mathematica)**: Dynamic system simulations (mass-spring-damper, pendulums) and stability analysis using Wolfram Mathematica.
+- **[Mechanical Design Portfolio](https://github.com/dante051005/Mechanical-Design-Portfolio)**: Comprehensive gallery of FEA simulations (Abaqus/Ansys), CAD designs (Fusion 360), and manufacturing workshop evidence.
